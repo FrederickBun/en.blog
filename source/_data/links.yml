@@ -14,7 +14,3 @@
       link: https://hexo.io
       description: A fast, simple & powerful blog framework, powered by Node.js.
       avatar: https://hexo.io/logo.svg
-    - name: Next.js
-      link: https://nextjs.org
-      description: The React Framework for the Web
-      avatar: /images/nextjs.png
