@@ -363,7 +363,7 @@ footer:
   # Show website running time
   runtime: true # show website running time or not
   # Icon in footer, write fontawesome icon code here
-  icon: '<i class="fa-solid fa-spinner fa-spin-pulse"></i>'
+  icon: '<i class="fa-solid fa-circle-info fa-beat-fade" style="--fa-beat-fade-opacity: 0.67; --fa-beat-fade-scale: 1.075;"></i>'
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
   start: 2042/3/31 15:00:00
   # Site statistics
