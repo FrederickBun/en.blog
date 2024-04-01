@@ -2,7 +2,7 @@
 title: Hello World
 tags: 
     - Site
-cateries: 
+categories: 
     - Logs
     - Start
 abbrlink: 16107
