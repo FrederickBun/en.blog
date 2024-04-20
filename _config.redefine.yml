@@ -108,7 +108,7 @@ home_banner:
     light: /images/light-wall.jpeg # light mode
     dark: /images/dark-wall.jpg # dark mode
   # Home banner title
-  title: <img src="https://github.com/FrederickAsYou/FrederickAsYou/blob/main/logo-final/oktica-right-logo-neon-webkit-animation.svg" width="300px"/>
+  title: <img src="https://github.com/FrederickAsYou/FrederickAsYou/raw/main/logo-final/oktica-right-logo-neon-webkit-animation.svg" width="300px"/>
   # Home banner subtitle
   subtitle:
     text: [] # subtitle text, array
