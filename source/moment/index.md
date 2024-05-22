@@ -15,9 +15,6 @@ leftend: 使用 友链朋友圈 订阅友链最新文章
             <i class="solitude st-restart-line"></i>
         </a>
     </div>
-    <div class="title-h2-a-right">
-        <a href="/links/" data-pjax-state="">全部友链</a>
-    </div>
 </div>
 <div id="random-post"></div>
 
@@ -48,7 +45,6 @@ var fdata = {
 } 
 #random-post {
   min-height: 32px;
-  background: var(--efu-card-bg);
   border: var(--style-border-always);
   box-shadow: var(--efu-shadow-border);
   padding: 20px 30px;
